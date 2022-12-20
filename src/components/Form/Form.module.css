@@ -1,0 +1,16 @@
+.Form{
+   display: flex;
+   gap: 5px;
+   justify-content: center;
+   position: relative;
+   top: 50px;
+}
+
+.Form input {
+    width: 10rem;
+    height: 2.5rem;
+    outline: none;
+    border-radius: 10px;
+    border: solid 1px grey;
+}
+

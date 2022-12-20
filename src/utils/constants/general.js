@@ -1,0 +1,1 @@
+export const BASE_URL = "https://form-validation-cefcd-default-rtdb.firebaseio.com"
